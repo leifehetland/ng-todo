@@ -1,3 +1,8 @@
 body{
-	background-color: pink;
+	background: radial-gradient(circle, black, white, pink, skyblue, purple, gold, pink, skyblue, pink, black);
+	background-repeat: no-repeat;
+	border-color: transparent;
+	border: 20px transparent solid;
+	border-radius: 10px;
+	filter: blur(10px);
 }
